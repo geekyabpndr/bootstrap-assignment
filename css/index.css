@@ -1,0 +1,108 @@
+.header {
+    height: 328px;
+    background-color: #027AFF;
+}
+.title {
+    padding-top: 106px;
+    margin: 0;
+}
+.white-font {
+    color: white;
+}
+.section-title {
+    font-size: 24px;
+}
+.line {
+    color: gray;
+}
+.contact p {
+    margin: 0;
+}
+.link {
+    color: blue;
+}
+.empty-cards {
+    margin-top: 84px;
+}
+.empty-card {
+    background-color: #CECECE;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 30%;
+    justify-content: space-between;
+    margin: 0;
+    padding-top: 50px;
+}
+.flex-container > .flex-box {
+    background-color: #CECECE;
+    width: 350px;
+    line-height: 230px;
+    border-radius: 5px;
+    padding: 15px 0px 15px 15px;
+    display: grid;
+    position: relative;
+}
+.flex-box .flex-text {
+    vertical-align: middle;
+    text-align: center;
+    font-size: 26px;
+    color: #B7B7B7;
+}
+.image-div {
+    margin-top: 84px;
+    height: 380px;
+    background-image: url("../image/image-div-background.jpg");
+}
+.image-div .image-div-text {
+    display: flex;
+    justify-content: center;
+    padding-top: 122px;
+    text-align: center;
+}
+.image-div-text .image-div-text-heading {
+    font-size: 40px;
+}
+.pricing {
+    margin-top: 94px;
+    text-align: center;
+}
+.price-cards {
+    margin-top: 45px;
+}
+.pricing-title {
+    font-size: 40px;
+}
+.card-price {
+    font-size: 32px;
+}
+.card-title {
+    background-color: #F3F3F3;
+}
+.line-pricing-footer {
+    margin-top: 155px;
+}
+.line-pricing-footer hr {
+    margin: 0px;
+}
+.footer {
+    margin-top: 49px;
+    margin-bottom: 67px;
+}
+.bootstrap-footer-icon {
+    width: 25px;
+    height: 25px;
+}
+.footer-copyright {
+    font-size: 14px;
+    color: gray;
+}
+.footer-title {
+    font-size: 16px;
+}
+.footer-content {
+    font-size: 15px;
+    color: gray;
+}
